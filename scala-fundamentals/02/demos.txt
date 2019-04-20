@@ -1,0 +1,2 @@
+To follow along with the demos in this course, please clone the GitHub repo available here:
+https://github.com/hhimanshu/scala-fundamentals
